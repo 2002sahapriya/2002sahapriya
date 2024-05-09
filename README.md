@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/2002sahapriya)
 
-## Skills
+## 🛠️ Skills
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-1572B6?style=flat-square&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-1572B6?style=flat-square&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-1572B6?style=flat-square&logoColor=white)
@@ -47,7 +47,7 @@
 - [Awesome Python Project](https://github.com/2002sahapriya/project-name) - Brief description of what this project does.
 - [Machine Learning Model](https://github.com/2002sahapriya/project-name) - A short summary of this ML model.
 
-## Leadership Skills
+## 👩🏻‍💼 Leadership Skills
 - Part of the Women in Computer Science Undergraduate Committee at the University of Waterloo
 - Served twice as **Chair**, **Director of Publicity**, and **Director of Finance**
 
@@ -55,10 +55,10 @@
 She/Her/Hers
   
 ## ⚡ Fun facts
-- I can speak **5** languages: English, Hindi, Bengali, Sanskrit, Spanish
-- Avid Orangetheory Fitness (OTF) lover with **400+** classes attended! 
-- Completed a **10K race** & an **OTF Full, Relay and Strength Dri-Tri competitor**!!
-- I can row **2000m** in sub **7.5 minutes**, run **1 mile** in sub **9 minutes**, and working on **70lbs chest presses**!
+- I can speak **5** languages: English, Hindi, Bengali, Sanskrit, Spanish 🙊
+- Avid Orangetheory Fitness (OTF) 🍊 lover with **400+** classes attended 💪 
+- Completed a **10K race** 💨 & an **OTF Full, Relay and Strength Dri-Tri competitor** 💪!!
+- I can row **2000m** in sub **7.5 minutes** 🚣‍♀️, run **1 mile** in sub **9 minutes** 🏃🏻‍♀️, and working on **70lbs chest presses** 💪!
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Priyadarshini Saha](https://www.linkedin.com/in/priyadarshinisaha/)
