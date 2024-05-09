@@ -2,9 +2,15 @@
 
 ## About Me
 - I'm a 4th year **Computer Science & AI** student at the University of Waterloo, Canada.
-- Completed 5 internships as **Software Engineer** @ `Manulife`, `TD`, `RBC` and `LTIMindtree`
+- Completed 5 internships as **Software Engineer** @ 
+![RBC](https://img.shields.io/badge/RBC-0071BC?style=flat-square&logoColor=white)
+![TD](https://img.shields.io/badge/TD-20B2AA?style=flat-square&logoColor=white)
+![Manulife](https://img.shields.io/badge/Manulife-134A8E?style=flat-square&logoColor=white)
+![LTIMindtree](https://img.shields.io/badge/LTIMindtree-5867DD?style=flat-square&logoColor=white)
 
-![Profile views](https://gpvc.arturio.dev/2002sahapriya)
+
+![Profile views](https://komarev.com/ghpvc/?username=2002sahapriya)
+
 
 ## 🛠️ Skills
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-1572B6?style=flat-square&logoColor=white)
@@ -44,8 +50,32 @@
 ![Priyadarshini Saha's GitHub stats](https://github-readme-stats.vercel.app/api?username=2002sahapriya&show_icons=true&theme=holi)
 
 ## 🗂️ Highlight Projects
-- [Awesome Python Project](https://github.com/2002sahapriya/project-name) - Brief description of what this project does.
-- [Machine Learning Model](https://github.com/2002sahapriya/project-name) - A short summary of this ML model.
+1. **[HDR Imaging](https://github.com/2002sahapriya/HDR-Imaging)**
+  - *Summary*: This computer vision project focuses on creating high dynamic range (HDR) images using the Debevec-Malik method by combining multiple photographs taken at different exposure levels. It also explores multiple tone-mapping methods, exposure estimation methods, and image alignment using homography representation for pictures taken without a tripod.
+
+2. **[Face Detection - Facial Feature Study](https://github.com/2002sahapriya/SYDE552-Final-Project)** 
+  - *Summary*: This computational neuroscience project focuses on manipulating the VGGFace-16 model architecture to study how the neural network recognizes faces. The aim objective of this project is to simulate a neurological deficit which makes it difficult for the brain to recognize faces through multiple manipulation techniques such as noise injection, feature ablation, selective dropout, and neuron deactivation based on CAM-GRAD techniques.
+
+3. **[AI Chatbot](https://github.com/2002sahapriya/Chatbot)**
+  - *Summary*: This project focuses on creating an AI Chatbot that recommends music, books, and podcasts based on individual preferences through Natural Language Processing. 
+
+4. **[MyGPT](https://github.com/2002sahapriya/project-name)**
+  - *Summary*: Created my version of ChatGPT using OpenAI's GPT APIs. This version of ChatGPT allows you to select the type of AI/ML model for your response based on your prompt context for code or text. You can also select the temperature for a more creative or logical approach, and the number of tokens your answer should be. 
+
+5. **[scheduLens](https://github.com/2002sahapriya/scheduLens)** **TechNova 2022 - HRT Best Connectivity Hack Winner!!**
+  - *Summary*: Technova 2022 Hackathon Project --> ScheduLens is a platform to support students in maintaining close relationships with their friends throughout university. It allows students to keep track of their classes in a personalized schedule, cultivate a friends list, and view their matching classes with their friends. The application allows you to enter your scheduled classes, add friends and see with whom you share classes.
+    
+6. **[Bridge](https://github.com/2002sahapriya/bridge)**
+  - *Summary*: Technova 2021 Hackathon Project --> Bridge+ is a web application that allows female and non-binary professionals to see meet and chat with other women in the tech field. Similar to Tinder, users have the chance to swipe through various profiles to learn about interests, occupations, and universities and decide whether they want to chat. Bridge+ aims to build a community of women in tech, bridging the gap.
+  
+7. **[Chess](https://github.com/2002sahapriya/Chess)**
+  - *Summary*: 
+
+8. **[Whatoodo?](https://github.com/2002sahapriya/whatoodo?)**
+  - *Summary*: 
+
+9. **[Chef's Prep](https://github.com/2002sahapriya/chefs-prep)**
+  - *Summary*: 
 
 ## 👩🏻‍💼 Leadership Skills
 - Part of the Women in Computer Science Undergraduate Committee at the University of Waterloo
