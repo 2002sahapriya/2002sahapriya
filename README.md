@@ -51,15 +51,21 @@
 
 ## 🗂️ Highlight Projects
 1. **[HDR Imaging](https://github.com/2002sahapriya/HDR-Imaging)**
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-black?style=flat-square&logoColor=white)
   - *Summary*: This computer vision project focuses on creating high dynamic range (HDR) images using the Debevec-Malik method by combining multiple photographs taken at different exposure levels. It also explores multiple tone-mapping methods, exposure estimation methods, and image alignment using homography representation for pictures taken without a tripod.
 
-2. **[Face Detection - Facial Feature Study](https://github.com/2002sahapriya/SYDE552-Final-Project)** 
+2. **[Face Detection - Facial Feature Study](https://github.com/2002sahapriya/SYDE552-Final-Project)**
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-black?style=flat-square&logoColor=white)
+![Computational Neuroscience](https://img.shields.io/badge/Computational_Neuroscience-black?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=flat-square&logoColor=white)
   - *Summary*: This computational neuroscience project focuses on manipulating the VGGFace-16 model architecture to study how the neural network recognizes faces. The aim objective of this project is to simulate a neurological deficit which makes it difficult for the brain to recognize faces through multiple manipulation techniques such as noise injection, feature ablation, selective dropout, and neuron deactivation based on CAM-GRAD techniques.
 
 3. **[AI Chatbot](https://github.com/2002sahapriya/Chatbot)**
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-black?style=flat-square&logoColor=white)
   - *Summary*: This project focuses on creating an AI Chatbot that recommends music, books, and podcasts based on individual preferences through Natural Language Processing. 
 
 4. **[MyGPT](https://github.com/2002sahapriya/project-name)**
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-black?style=flat-square&logoColor=white)
   - *Summary*: Created my version of ChatGPT using OpenAI's GPT APIs. This version of ChatGPT allows you to select the type of AI/ML model for your response based on your prompt context for code or text. You can also select the temperature for a more creative or logical approach, and the number of tokens your answer should be. 
 
 5. **[scheduLens](https://github.com/2002sahapriya/scheduLens)** **TechNova 2022 - HRT Best Connectivity Hack Winner!!**
