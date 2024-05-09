@@ -15,6 +15,8 @@
 
 ### Languages
 - Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Java
 - C/C++
 - Racket
@@ -22,7 +24,7 @@
 - HTML
 - CSS
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
   
 ### Frameworks
 - React
@@ -39,6 +41,7 @@
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/apiusername=2002sahapriya&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2002sahapriya)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🗂️ Highlight Projects
 - [Awesome Python Project](https://github.com/2002sahapriya/project-name) - Brief description of what this project does.
