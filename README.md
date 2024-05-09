@@ -11,7 +11,6 @@
 - Computer Vision
 - Machine Learning
 - Computational Neuroscience
-  [Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ### Languages
 - Python
@@ -40,9 +39,8 @@
 - Firebase
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/apiusername=2002sahapriya&show_icons=true&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2002sahapriya)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2002sahapriya&show_icons=true&theme=holi)
 ## 🗂️ Highlight Projects
 - [Awesome Python Project](https://github.com/2002sahapriya/project-name) - Brief description of what this project does.
 - [Machine Learning Model](https://github.com/2002sahapriya/project-name) - A short summary of this ML model.
